@@ -1,0 +1,14 @@
+{
+  "name":1,
+  "title":1 ,
+  "description": 1,
+  "author": "Evil",
+  "version": 1,
+  "minimumCoreVersion":1,
+  "compatibleCoreVersion":1,
+  "scripts":1,
+  "esmodules":1,
+  "styles":1,
+  "packs":1
+}
+
